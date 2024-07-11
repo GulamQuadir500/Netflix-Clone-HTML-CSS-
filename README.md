@@ -60,7 +60,12 @@ netflix-clone/
 
 ## Screenshots
 
-![Screenshot](images/screenshot.png)
+![Screenshot](Images/1.png)
+![Screenshot](Images/2.png)
+![Screenshot](Images/3.png)
+![Screenshot](Images/4.png)
+![Screenshot](Images/5.png)
+![Screenshot](Images/6.png)
 
 ## Contributing
 
