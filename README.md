@@ -3,6 +3,9 @@
 
 This project is a clone of the Netflix homepage, built using HTML and CSS. The aim of this project is to practice and demonstrate skills in front-end web development, specifically focusing on layout, design, and responsive web design.
 
+## Live Link
+https://gulamquadir500.github.io/Netflix-Clone-HTML-CSS-/
+
 ## Features
 
 - Responsive layout that adapts to different screen sizes
